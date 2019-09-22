@@ -2,7 +2,7 @@
 
 This project was created for a programming class in high school.
 
-It was created within a group of two classmates; myself and Alex Truman.
+It was created within a group of two classmates; Alex Truman and myself.
 
 The prompt was to create a program that pushed our current limits.
 
